@@ -47,7 +47,7 @@ The application includes the following main pages and features:
 ## 📦 Installation
 
 ```
-git clone https://github.com/yafitb11/react-project.git
+git clone https://github.com/yafitb11/business_cards_app_front.git
 cd react-project
 npm install
 npm run dev
